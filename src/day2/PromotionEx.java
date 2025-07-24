@@ -1,7 +1,7 @@
 package day2;
 
 public class PromotionEx {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         //byte<short,char<int<long<float<double
 
