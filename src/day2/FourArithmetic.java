@@ -7,10 +7,10 @@ public class FourArithmetic {
         int a, b;
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("첫번재 정수 입력 :");
+        System.out.print("첫번재 정수 jungol.입력 :");
         a = sc.nextInt();
 
-        System.out.print("두번째 정수 입력 :");
+        System.out.print("두번째 정수 jungol.입력 :");
         b = sc.nextInt();
 
 

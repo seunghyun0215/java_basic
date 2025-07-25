@@ -8,7 +8,7 @@ public class ex02 {
         //정수형 변수 선언
 
 
-        //사용자 입력을 위한 키보드 입력 기능 추가
+        //사용자 입력을 위한 키보드 jungol.입력 기능 추가
         Scanner input = new Scanner(System.in);
         System.out.println("첫번째 숫자를 입력하세요");
         num1 = input.nextInt();

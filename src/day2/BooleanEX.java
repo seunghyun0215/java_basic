@@ -17,5 +17,5 @@ public class BooleanEX {
     //변수 x의 값이 0보다 크고 30보다 작은가? 결과 result3에 저장
     //변수 x의 값이 0보다 작거나 30보다 크거나 같은가? 결과 result4에 저장
 
-    //각 결과 출력
+    //각 결과 jungol.입력.출력
 }

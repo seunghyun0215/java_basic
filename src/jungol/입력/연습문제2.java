@@ -1,4 +1,4 @@
-package 입력;
+package jungol.입력;
 
 public class 연습문제2 {
     public static void main(String[] args) {
